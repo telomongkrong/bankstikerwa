@@ -77,6 +77,31 @@
         }
       ]
     }
+    , 
+    {
+      "identifier": "4",
+      "name": "Taffy Cat 4",
+      "publisher": "Tushar Parmar",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"viztushar@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_05_thub.png",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_06_thub.png",
+          "emojis": ["ðŸ™‚"]
+        }
+      ]
+    }
     
   ]
 }
