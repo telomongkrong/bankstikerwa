@@ -15,15 +15,15 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
+          "https://www.gstatic.com/webp/gallery/1.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
+          "https://www.gstatic.com/webp/gallery/1.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
+          "https://www.gstatic.com/webp/gallery/1.webp",
           "emojis": ["😆","😂"]
         }
       ]
